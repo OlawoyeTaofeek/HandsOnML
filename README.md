@@ -1,0 +1,1 @@
+A hands on learning approach after reading the Book Hands on Machine Learning By Ageron
